@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Programación multimedia
+  structure:
+    - type: space
+      key: space-1
+      title: Programación multimedia
+      path: programacion-multimedia
+      default: true
+      content:
+        directory: ./programacion-multimedia
