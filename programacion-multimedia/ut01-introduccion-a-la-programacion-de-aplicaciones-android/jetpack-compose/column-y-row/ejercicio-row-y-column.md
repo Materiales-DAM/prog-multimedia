@@ -29,5 +29,6 @@ layout:
 
 # Ejercicio Row y Column
 
-Crea esta actividad\
-![](<../../../.gitbook/assets/image (1).png>)
+Crea esta actividad
+
+![](../../../.gitbook/assets/imagen.png)<br>
